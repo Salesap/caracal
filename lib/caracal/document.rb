@@ -1,3 +1,4 @@
+require 'open-uri'
 require 'zip'
 
 require 'caracal/core/bookmarks'
